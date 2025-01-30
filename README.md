@@ -1,2 +1,2 @@
 # TimelineJS Workshop
-Workshop page for TimelineJS
+Workshop page for TimelineJS 
